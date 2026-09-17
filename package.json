@@ -73,7 +73,5 @@
     "@types/react": "~19.1.10",
     "typescript": "~5.9.2"
   },
-  "overrides": {
-    "expo-constants": "18.0.14"
-  }
+  "overrides": {}
 }
